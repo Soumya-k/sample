@@ -1,7 +1,7 @@
 hello world
 change
 change
-<<<<<<< HEAD
+ HEAD
 
 new feature added
 feature1
