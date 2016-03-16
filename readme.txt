@@ -1,4 +1,7 @@
 hello world
 change
 change
-master
+<<<<<<< HEAD
+
+new feature added
+feature1
